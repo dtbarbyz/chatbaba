@@ -1,8 +1,8 @@
 -- Do not edit anything else than the texts or else the script may break
 -- This is actually robloxs chat script that sends the text to the chat so roblox made it not me
 local args = {
-    [1] = "я гэндон " .. --first text
-        "я сак", --second text
+    [1] = "Я САМЫЙ ЛУЧШИЙ ТИПОК" .. --first text
+        "Я ЛЮБЛЮ МАМУ", --second text
     [2] = "All"
 }
  
