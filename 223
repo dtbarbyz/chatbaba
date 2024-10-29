@@ -1,0 +1,9 @@
+-- Do not edit anything else than the texts or else the script may break
+-- This is actually robloxs chat script that sends the text to the chat so roblox made it not me
+local args = {
+    [1] = "я гэндон " .. --first text
+        "я сак", --second text
+    [2] = "All"
+}
+ 
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
